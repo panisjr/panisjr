@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **open-source contributions – Let’s build something great together.**
 
-- 👨‍💻 All of my projects are available at [Portfolio: www.behance.net/ramelpanis](Portfolio: www.behance.net/ramelpanis)
+- 👨‍💻 All of my projects are available at Portfolio: www.behance.net/ramelpanis
 
 - 💬 Ask me about **Ask me about React, Angular, and GSAP – I love sharing knowledge!**
 

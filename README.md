@@ -1,7 +1,6 @@
 <body style="background:white;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lightdarkmaster&label=Profile%20views&color=0e75b6&style=flat" alt="lightdarkmaster" /> </p>
 <p align="center">
-    <img src="https://github.com/lightdarkmaster/lightdarkmaster/blob/main/assets/images/githubBanner.png" alt="Header Banner" />
+    <img src="/assets/images/githubBanner.png" alt="Header Banner" />
 </p>
 <!-- <img align="right" height="400" src="./assets/images/dancing1.gif"  /> -->
 

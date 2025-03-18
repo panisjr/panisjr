@@ -1,10 +1,9 @@
 <body style="background:white;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=panisjr&label=Profile%20views&color=0e75b6&style=flat" alt="panisjr" /> </p>
 <p align="center">
     <img src="assests/images/githubBanner.png" alt="Header Banner" />
 </p>
-<!-- <img align="right" height="400" src="./assets/images/dancing1.gif"  /> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panisjr&label=Profile%20views&color=0e75b6&style=flat" alt="panisjr" /> </p>
 <h1 align="center">Hi 👋, I'm Ramel O. Panis Jr.</h1>
 <h3 align="center">A passionate Frontend Developer from the Philippines</h3>
 

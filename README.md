@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **Email: ramelpanisjr.06@gmail.com**
 
-- ⚡ Fun fact **I can debug a React app faster than I can decide what to eat for lunch! 😆**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/panisjr-ramel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/panisjr-ramel" height="30" width="40" /></a>

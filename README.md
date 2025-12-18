@@ -1,7 +1,7 @@
 <body style="background:white;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panisjr&label=Profile%20views&color=0e75b6&style=flat" alt="panisjr" /> </p>
 <p align="center">
-    <img src="assests/images/githubBanner.png" alt="Header Banner" />
+    <img src="assests/images/github-header-banner.png" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ramel Panis Jr.</h1>

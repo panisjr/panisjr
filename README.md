@@ -7,7 +7,21 @@
 <h3 align="center">A passionate Web Developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **SALIGAN - A centralized platform designed to simplify barangay management.**
-  👉 **Visit the project:** [SALIGAN](https://saligan.vercel.app)
+  <a href="https://saligan.vercel.app" target="_blank"
+   style="
+     display: inline-block;
+     padding: 10px 18px;
+     border-radius: 12px;
+     background: rgba(34,197,94,0.15);
+     color: #22c55e;
+     font-weight: 600;
+     text-decoration: none;
+     font-size: 14px;
+     border: 1px solid rgba(34,197,94,0.4);
+     backdrop-filter: blur(8px);
+   ">
+  🌿 View SALIGAN Platform
+</a>
 
 - 👯 I’m looking to collaborate on **large-scale frontend projects – Reach out if you're interested!**
 

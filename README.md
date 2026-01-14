@@ -6,7 +6,8 @@
 
 <h3 align="center">A passionate Web Developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Todo List - A simple yet efficient task management app.**
+- 🔭 I’m currently working on **SALIGAN - A centralized platform designed to simplify barangay management.**
+  👉 **Visit the project:** [SALIGAN](https://saligan.vercel.app)
 
 - 👯 I’m looking to collaborate on **large-scale frontend projects – Reach out if you're interested!**
 

@@ -87,6 +87,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=panisjr&theme=tokyo-night&hide_border=true"/>
 </p>
+
 ---
 
 ## 📬 Connect With Me
@@ -108,7 +109,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://rams-portfolio-next.vercel.app/" target="_blank">
+  <a href="https://paramz.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
@@ -127,5 +128,5 @@
 
 ---
 
-> _“If you're starting to give up, and think about why you started.”_  
+> _“If you're starting to give up, think about why you started.”_  
 > — **Ramel Panis Jr.**

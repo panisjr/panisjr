@@ -15,9 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <p align="left">
-  <a href="https://aws.amazon.com/amplify/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws amplify" width="40" height="40"/>
-  </a>
 
   <a href="https://angular.io" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
@@ -25,10 +22,6 @@
 
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  </a>
-
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank">

@@ -8,20 +8,20 @@
 
 - 🔭 I’m currently working on **SALIGAN - A centralized platform designed to simplify barangay management.**
   <a href="https://saligan.vercel.app" target="_blank"
-   style="
-     display: inline-block;
-     padding: 10px 18px;
-     border-radius: 12px;
-     background: rgba(34,197,94,0.15);
-     color: #22c55e;
-     font-weight: 600;
-     text-decoration: none;
-     font-size: 14px;
-     border: 1px solid rgba(34,197,94,0.4);
-     backdrop-filter: blur(8px);
-   ">
+     style="
+       display: inline-block;
+       padding: 10px 18px;
+       border-radius: 12px;
+       background: rgba(34,197,94,0.15);
+       color: #22c55e;
+       font-weight: 600;
+       text-decoration: none;
+       font-size: 14px;
+       border: 1px solid rgba(34,197,94,0.4);
+       backdrop-filter: blur(8px);
+     ">
   🌿 View SALIGAN Platform
-</a>
+  </a>
 
 - 👯 I’m looking to collaborate on **large-scale frontend projects – Reach out if you're interested!**
 
@@ -37,14 +37,6 @@
 
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.chartjs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="chartjs" width="40" height="40"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank">
@@ -75,20 +67,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
-  </a>
-
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
@@ -129,10 +113,6 @@
 
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react native" width="40" height="40"/>
   </a>
 
   <a href="https://www.selenium.dev" target="_blank">
@@ -197,8 +177,8 @@
 ## 🧩 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=panisjr&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panisjr&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=panisjr&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panisjr&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
@@ -222,17 +202,10 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/ramz_panisjr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
   <a href="https://paramz.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://behance.net/ramelpanis" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
 </p>
 
 ---

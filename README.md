@@ -176,10 +176,13 @@
 
 ## 🧩 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panisjr&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panisjr&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=panisjr&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/panisjr?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/panisjr?label=Stars&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Repos&query=public_repos&url=https://api.github.com/users/panisjr" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=panisjr&theme=tokyo-night&hide_border=true"/>

@@ -176,13 +176,15 @@
 
 ## 🧩 GitHub Stats
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=panisjr&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/panisjr?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/panisjr?label=Stars&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Repos&query=public_repos&url=https://api.github.com/users/panisjr" />
-</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=panisjr&label=Profile%20Views&color=blueviolet&style=flat" />
 
+  <img src="https://img.shields.io/github/followers/panisjr?label=Followers&style=flat&color=ff69b4&logo=github" />
+
+  <img src="https://img.shields.io/github/stars/panisjr?label=Total%20Stars&style=flat&color=yellow&logo=github" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/panisjr&color=success&logo=github" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=panisjr&theme=tokyo-night&hide_border=true"/>
